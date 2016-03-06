@@ -21,6 +21,7 @@
 
 #include <stdlib.h>
 #include <stdio.h>
+#include <stdint.h>
 #include "../lib/rfxswf.h"
 #include "../lib/log.h"
 #include "../lib/args.h"
